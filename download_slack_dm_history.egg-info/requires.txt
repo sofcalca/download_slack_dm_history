@@ -1,9 +1,0 @@
-click
-decorator
-requests
-
-[dev]
-pylint
-coverage
-tox
-twine

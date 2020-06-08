@@ -1,2 +1,0 @@
-download_slack_dm_history
-download_slack_dm_history_tests
