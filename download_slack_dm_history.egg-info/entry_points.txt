@@ -1,0 +1,3 @@
+[console_scripts]
+download_slack_dm_history = download_slack_dm_history.cli:cli
+
