@@ -4,7 +4,7 @@ import json
 
 import click
 
-from download_slack_dm_history.utils import retrieve_all_slack_messages
+from download_slack_dm_history.connectors import retrieve_all_slack_messages
 
 
 @click.group()
