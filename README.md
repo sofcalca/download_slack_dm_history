@@ -1,4 +1,5 @@
 # Download DM history from Slack
+[![Build Status](https://travis-ci.org/sofcalca/download_slack_dm_history.svg?branch=master)](https://travis-ci.org/github/sofcalca/download_slack_dm_history)
 
 ## Usage
 
